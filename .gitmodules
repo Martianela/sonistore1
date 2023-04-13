@@ -1,0 +1,9 @@
+[submodule "sonistore1"]
+	path = sonistore1
+	url = https://github.com/Martianela/sonistoreApi.git
+[submodule "client"]
+	path = client
+	url = https://github.com/Martianela/sonistoreclient.git
+[submodule "sonistorecli"]
+	path = sonistorecli
+	url = https://github.com/Martianela/sonistoreclient.git
